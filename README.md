@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-bairagi61&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-bairagi61" /> </p>
 
 - 🌱 I’m currently learning *Artificial Intelligence , Machine Learning*
-- 👩‍🎓Persuing B.tech in *Computer Engineering* with Specialization in *data Science*
-- 
-
+- 👩‍🎓Persuing B.tech in *Computer Engineering* with Specialization in ***data Science*
+- Prounce:She/Her
+- I am eager to collaborate and innovate, leveraging my experience to help achieve our shared goals. 
 - 📫 How to reach me *pranjalarote2@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
