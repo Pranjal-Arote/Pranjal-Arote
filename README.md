@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Pranjal Arote</h1>
+<h1 align="center">Hi 👋, I'm :Pranjal Arote</h1>
 <h3 align="center">A Passionate Computer Engineer with interest in Data Science and AIML.</h3>
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi-bairagi61&label=Profile%20views&color=0e75b6&style=flat" alt="aditi-bairagi61" /> </p>
 
 - 🌱 I’m currently learning *Artificial Intelligence , Machine Learning*
+- 👩‍🎓Persuing B.tech in *Computer Engineering* with Specialization in *data Science*
+- 
 
 - 📫 How to reach me *pranjalarote2@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=="https://www.linkedin.com/in/pranjal-arote"  target="blank"><img align="center"  alt="https://www.linkedin.com/in/pranjal-arote" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanka-d-todkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanka-d-todkar" height="30" width="40" /></a>
 
-<a href="https://github.com/Pranjal-Arote" target="blank"></a>
+<a href="https://github.com/ptodkar31" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,5 +48,5 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
   </a>
-  <h1>Prounce</h1><p>:She/Her</p>
+  <h2>Your work is a reflection of yourself. Make it the best you can..🙂</h2>
 </p>
